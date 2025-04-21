@@ -8,7 +8,6 @@
 
 ### In-Progress Projects
 - ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
-- 🎡 [flywheelfly](https://github.com/jackmuva/flywheelfly): Journaling app with habit tracking, planning, vision board, all in one!
 
 ### Deprecated
  - 🐢 [Trtlpost](https://trtlpost.com): sending cadenced email newsletters; no matter when a user subscribes, they get an email newsletter in its entirety
