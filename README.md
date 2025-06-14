@@ -9,6 +9,6 @@
 
 ### in-progress projects
 - ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
-- 💻 [terminaldotx](https://github.com/jackmuva/terminaldotx): macOS terminal copilot to teach terminal novices the basics of CLI commands]
+- 💻 [terminal-pollux](https://github.com/jackmuva/terminal-pollux): macOS terminal emulator to teach terminal novices the basics of CLI commands
   - 🖥️[terminal-castor](https://github.com/jackmuva/terminal-castor): revamp of the original idea, using a terminal UI written in Go
   
