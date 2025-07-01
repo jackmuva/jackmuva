@@ -10,4 +10,5 @@
 ### in-progress projects
 - ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
 - 💻 [terminal-castor](https://github.com/jackmuva/terminal-castor): macOS terminal emulator to teach terminal novices the basics of CLI commands
+- 🏃 [vimnotion](https://github.com/jackmuva/vimnotion): what it sounds like - notion-like editor with vim motions
   
