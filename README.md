@@ -12,5 +12,5 @@
 ### in-progress projects
 - ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
 - 🏃 [vimnotion](https://github.com/jackmuva/vimnotion): what it sounds like - notion-like editor with vim motions
-- 📧 [haligram](https://github.com/jackmuva/haligram): helps marketing folks get in the right threads and conversations
+- 🧵 [haligram](https://github.com/jackmuva/haligram): helps marketing folks get in the right threads and conversations
   
