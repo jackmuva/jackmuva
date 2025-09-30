@@ -9,7 +9,7 @@
 - 💻 [terminal-castor](https://github.com/jackmuva/terminal-castor): macOS terminal emulator to teach terminal novices the basics of CLI commands
 
 ### in-progress projects
-- ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
 - 🏃 [vimnotion](https://github.com/jackmuva/vimnotion): what it sounds like - notion-like editor with vim motions
-- 📦 [timebaux](https://github.com/jackmuva/timebaux): evolution of trtlpost; ordered email subscriptions that can be started anytie
+- 📦 [newsbaux](https://github.com/jackmuva/newsbaux): personalized email newsletters, curated by your preferences
+- ⚔️ [Ryokan OS](https://github.com/jackmuva/ryokan-os): 2D RPG where real-word habits leads to in-game experience and level ups
   
