@@ -12,5 +12,5 @@
 
 ### in-progress projects
 - 📊 [graph-mode](https://github.com/jackmuva/graph-mode): a graph approach to building finely controlled agents
-- 📦 [newsbaux](https://github.com/jackmuva/newsbaux): personalized email newsletters, curated by your preferences
+- 🏃 [vimnotion](https://vimnotion.com): what it sounds like - notion-like editor with vim motions
   
