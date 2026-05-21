@@ -3,8 +3,8 @@
 
 ### completed projects
 - 🏃 [vimnotion](https://vimnotion.com): what it sounds like - notion-like editor with vim motions
-- 💌 [fikaNote](https://fikanote.com): a lightweight app for sending letters, notes, or documents
-- 🪵 [flodet](https://flodet.com): a frontend only app designed to log activities with all data kept locally
+- 💌 [fikaNote](https://github.com/jackmuva/fikanote): a lightweight app for sending letters, notes, or documents
+- 🪵 [flodet](https://github.com/jackmuva/flodet): a frontend only app designed to log activities with all data kept locally
   
 ### Completed (but unpublished) desktop apps
 - 🔎 [paradocx](https://github.com/jackmuva/paradocx): electron desktop app that indexes docs for rag search
